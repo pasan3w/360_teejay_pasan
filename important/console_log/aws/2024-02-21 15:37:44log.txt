@@ -1,0 +1,20 @@
+2024-02-21 15:37:44 - <pre><h2>Survey ID</h2>113<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => 62
+    [Name] => Dino Fernandez
+    [DepartmentName] => 3WGE
+    [JobTitleName] => Student Counsellor
+    [EmailAddress] => dino@3wge.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+)
+<hr><script>alert('Self');</script>-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=113, State=3
+Survey State=3
+SurveyId:113, SurveyState:3 Current State is not valid for for new Assignment
+Error: Illegal Survey Assignment
+

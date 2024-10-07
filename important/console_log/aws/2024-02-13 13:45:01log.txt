@@ -1,0 +1,53 @@
+2024-02-13 13:45:01 - <pre><h2>Survey ID</h2>107<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => MT 03
+    [Name] => Pahani Gamage
+    [DepartmentName] => 3WC
+    [JobTitleName] => Management Trainee
+    [EmailAddress] => pahani@3rdwaveconsulting.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => pasan.chathinthaka.perera@gmail.com
+            [Name] => Pasan Perera
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasan.chathinthaka.perera@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => pasanchathinthaka99@gmail.com
+            [Name] => Pasan Chathinthaka
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasanchathinthaka99@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+    [2] => Array
+        (
+            [EID] => codeshoplanka@gmail.com
+            [Name] => Pasan Chathinthaka
+            [DepartmentName] => Group
+            [JobTitleName] => CEO
+            [EmailAddress] => codeshoplanka@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+)
+<hr><script>alert('Self');</script>-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=107, State=1
+Survey State=1
+SurveyID: 107 already contains a SurveyAssignment for employee:MT 03 by surveyor MT 03, number of duplicate assignments=1
+Error: Illegal Survey Assignment
+

@@ -1,0 +1,105 @@
+{
+    "EvaluationCriteria": [
+        {
+            "category": "Strategic Ability & Sound Business Judgement",
+            "id": 1,
+            "QuestionList": [
+                { "number": 1, "question": "Anticipates the changes in the external environment to be able to understand its impact on the current business." },
+                { "number": 2, "question": "Anticipates the changes within the team/department/SBU to be able to understand its impact on the current business." },
+                { "number": 3, "question": "Is able to understand the strategic intent of the business and ADVANTIS." }
+            ]
+        },
+        {
+            "category": "Innovation & Change Agent",
+            "id": 2,
+            "QuestionList": [
+                { "number": 1, "question": "Is able to come up with 'out of the box' ideas in executing assigned duties." },
+                { "number": 2, "question": "Is innovative: willing to try something new/challenging if it offers improvement." },
+                { "number": 3, "question": "Puts systems in place to encourage/reward innovation efforts by the team members." },
+                { "number": 4, "question": "Is a change Champion (proactive change agent)."},
+                { "number": 5, "question": "Leads the way in challenging status quo."},
+                { "number": 6, "question": "Go for new initiatives that impact business positively." },
+                { "number": 7, "question": "Has energy and can energize others." }
+            ]
+        },
+        {
+            "category" : "Initiative & Follow Through", 
+            "id" : 3, 
+            "QuestionList" : [
+                { "number": 1, "question": "Shares lessons learnt from past experiences and encourage the team to incorporate best practices ."}, 
+                { "number": 2, "question": "Gives careful attention to compliance standards, systems and procedures within team/department/ADVANTIS."},
+                { "number": 3, "question": "Has ability to get others committed and drive key priorities that drive results ."}
+            ]
+        },
+        { 
+            "category" : "Effective Communication",
+             "id" : 4,
+              "QuestionList" : [
+                { "number": 1, "question": "Listens attentively and attempts to understand the perspectives of others ."},
+                { "number": 2, "question": "Speaks effectively in front of a group."},
+                { "number": 3, "question": "Encourages others to express their views even if these are contrary to own opinions ."},
+                { "number": 4, "question": "Keeps people up to date with information ."},
+                { "number": 5, "question": "Accepts criticism openly and non-defensively."},
+                { "number": 6, "question": "Listens to people without interrupting ."},
+                { "number": 7, "question": "Communicates with all stakeholders professionally and diplomaticaly."}
+            ]
+        },
+        { 
+            "category" : "Customer Orientation and Team Work", 
+            "id" : 5, 
+            "QuestionList" : [
+                { "number": 1, "question": "Collaborates well within and across teams in ADVANTIS."},
+                { "number": 2, "question": "Builds strategic relationships (e.g. intra - organization, customers, government, partners, industry groups)."},
+                { "number": 3, "question": "Makes the team clear on ADVANTIS DNA and related contributions from each team member."},
+                { "number": 4, "question": "Empowers team members to act."},
+                { "number": 5, "question": "Able to resolve conflicts and drive collaboration within the team."},
+                { "number": 6, "question": "Helps create a climate of trust within the team."}                
+            ]
+        },
+        {
+            "category" : "Building High Performance Teams and Developing People",
+            "id" : 6,
+            "QuestionList" : [
+                { "number": 1, "question": "Encourages people to work outside of their comfort zone."},
+                { "number": 2, "question": "Provides timely and effective performance feedback to staff."},
+                { "number": 3, "question": "Is able to create a sense of commitment in the team towards achieving goals/ objectives."},
+                { "number": 4, "question": "Effectively coaches and develops people."},
+                { "number": 5, "question": "Provides the due recognition to who deserves in front of the team ."},               
+                { "number": 6, "question": "Provides opportunities to learn/aquire skills related to work/required competencies."},              
+                { "number": 7, "question": "Fosters an environment to drive team towards achieving team/organizational goals."}               
+            ]
+        },
+        {
+            "category" : "Decision Making and Problem Solving",
+            "id" : 7,
+            "QuestionList" : [
+                { "number": 1, "question": "Looks at problems from different perspectives and generate multiple solutions."},
+                { "number": 2, "question": "Is able to make logical explanations by looking at multiple data/facts and information when making a decision."},
+                { "number": 3, "question": "Is able to make a positive contribution at a discussion."},
+                { "number": 4, "question": "Demonstrates the ability and judgment in taking risks ."},
+                { "number": 5, "question": "Systematically search for issues that could be potential issues in the future ."}
+            ]
+        },
+        {
+            "category" : "Displays Ownership",
+            "id" : 8,
+            "QuestionList" : [
+                { "number": 1, "question": "Demonstrates energy and passion even when tackling challenging business issues ."},
+                { "number": 2, "question": "Takes the lead in complex situations and convinces others to gain support for an idea or cause ."},
+                { "number": 3, "question": "Drives collective responsibility through appropriate actions( such as involving employees in goal-setting, ongoing communication)."},
+                { "number": 4, "question": "Takes ownership for end-to-end outcomes."}
+            ]
+        },
+        {
+            "category" : "Text Input",
+            "id" : 9,
+            "QuestionList" : [
+                { "number": 1, "question": "What strengths/ talents do you see in the appraisee?", "type" : 1},
+                { "number": 2, "question": "What practices should the appraisee avoid or stop doing to become more effective in his professional life?", "type" : 1},
+                { "number": 3, "question": "What areas of development/training should the appraisee go through to become more effective?", "type" : 1},
+                { "number": 4, "question": "Any other remarks?", "type" : 1}
+            ]           
+       
+        }      
+    ]
+}

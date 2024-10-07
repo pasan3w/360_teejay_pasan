@@ -1,0 +1,564 @@
+{
+  "EvaluationCriteria": [
+    {
+      "category": "Communication Skills",
+      "id": 1,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Communicates to employees how their jobs/ works/ goals relate to organizational goals"
+        },
+        {
+          "number": 2,
+          "question": "Keeps open and regular communication with others."
+        },
+        {
+          "number": 3,
+          "question": "Delivers clear and concise instructions."
+        },
+        {
+          "number": 4,
+          "question": "Communications with department leadership"
+        },
+        {
+          "number": 5,
+          "question": "Is an effective communicator"
+        },
+        {
+          "number": 6,
+          "question": "Delivers difficult/sensitive messages to co-workers in an appropriate manner"
+        }
+      ]
+    },
+    {
+      "category": "Action",
+      "id": 2,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Gets the job done."
+        },
+        {
+          "number": 2,
+          "question": "Makes effective decisions, even when under pressure."
+        },
+        {
+          "number": 3,
+          "question": "Works quickly when faced with difficult problems."
+        },
+        {
+          "number": 4,
+          "question": "Motivates others to achieve or exceed goals"
+        },
+        {
+          "number": 5,
+          "question": "Exhibits personal ambition and drive."
+        },
+        {
+          "number": 6,
+          "question": "Takes corrective action when necessary."
+        }
+      ]
+    },
+    {
+      "category": "Self Management",
+      "id": 3,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Maintains control of their bearing and personal appearance."
+        },
+        {
+          "number": 2,
+          "question": "Does not allow own emotions to interfere with the performance of others."
+        },
+        {
+          "number": 3,
+          "question": "Sets an example for others during stressful periods by maintaining a positive, can-do attitude."
+        },
+        {
+          "number": 4,
+          "question": "Able to handle unexpected events and issues."
+        },
+        {
+          "number": 5,
+          "question": "Does not act impulsively."
+        },
+        {
+          "number": 6,
+          "question": "Uses patience and self-control in working with customers and associates."
+        }
+      ]
+    },
+    {
+      "category": "Continual Learning",
+      "id": 4,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Pursues self-improvement through continual learning."
+        },
+        {
+          "number": 2,
+          "question": "Grasps new ideas, concepts, technical, or business knowledge."
+        },
+        {
+          "number": 3,
+          "question": "Shares best practices with others and learns from others."
+        },
+        {
+          "number": 4,
+          "question": "Sets relevant learning objectives and goals."
+        },
+        {
+          "number": 5,
+          "question": "Builds onto their strengths."
+        }
+      ]
+    },
+    {
+      "category": "Professional Development",
+      "id": 5,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Demonstrates enthusiasm and a willingness to learn new skills and knowledge"
+        },
+        {
+          "number": 2,
+          "question": "Seeks opportunities for professional development."
+        },
+        {
+          "number": 3,
+          "question": "Allows employees to fully participate in employee training and professional development."
+        },
+        {
+          "number": 4,
+          "question": "Encourages employees to advance their education."
+        },
+        {
+          "number": 5,
+          "question": "Encourages employees to take courses relevant to their job."
+        }
+      ]
+    },
+    {
+      "category": "Decision Making",
+      "id": 6,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Is confident in the decisions they make."
+        },
+        {
+          "number": 2,
+          "question": "Takes charge when in charge."
+        },
+        {
+          "number": 3,
+          "question": "Effectively prioritizes and organizes themselves and their workload."
+        },
+        {
+          "number": 4,
+          "question": "Make sound and timely decisions under pressure"
+        },
+        {
+          "number": 5,
+          "question": "Systematically gathers, analyzes, and interprets information from a variety of sources"
+        },
+        {
+          "number": 6,
+          "question": "Solicits feedback from others on the quality of his/her decision-making"
+        }
+      ]
+    },
+    {
+      "category": "Innovation",
+      "id": 7,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Implements best practice methods within [Company]."
+        },
+        {
+          "number": 2,
+          "question": "Generates innovative and practical ideas and approaches."
+        },
+        {
+          "number": 3,
+          "question": "Creates innovative solutions to critical problems facing [Company]."
+        },
+        {
+          "number": 4,
+          "question": "Pursues innovative approaches to the current policies and procedures."
+        },
+        {
+          "number": 5,
+          "question": "Focuses on creating new value for our products/services."
+        },
+        {
+          "number": 6,
+          "question": "Challenges assumptions about the way things work."
+        }
+      ]
+    },
+    {
+      "category": "Change Management",
+      "id": 8,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Effective in dealing with ambiguous and challenging situations."
+        },
+        {
+          "number": 2,
+          "question": "Facilitates others in the development and implementation of changes."
+        },
+        {
+          "number": 3,
+          "question": "Adopts changes to set and example for others to follow."
+        },
+        {
+          "number": 4,
+          "question": "Addresses organizational and departmental resistance to changes."
+        },
+        {
+          "number": 5,
+          "question": "Plans and initiates effective departmental and organizational changes."
+        }
+      ]
+    },
+    {
+      "category": "Results Oriented",
+      "id": 9,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Helps others when free-time is available."
+        },
+        {
+          "number": 2,
+          "question": "Demonstrates the personal confidence to \"stay the course,\" even when faced with difficulty"
+        },
+        {
+          "number": 3,
+          "question": "Sets challenging personal and organizational goals."
+        },
+        {
+          "number": 4,
+          "question": "Encourages a high-energy, fun work environment and coaches others on how to do the same"
+        },
+        {
+          "number": 5,
+          "question": "Accomplishes difficult tasks obtaining measurable results."
+        },
+        {
+          "number": 6,
+          "question": "Exhibits high energy and a positive attitude on the job with others"
+        }
+      ]
+    },
+    {
+      "category": "Developing Others",
+      "id": 10,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Encourages others to accept projects or tasks that extend their abilities and present opportunities for development."
+        },
+        {
+          "number": 2,
+          "question": "Assigns tasks and responsibilities to develop skills of others."
+        },
+        {
+          "number": 3,
+          "question": "Motivates employees to participate in development programs."
+        },
+        {
+          "number": 4,
+          "question": "Makes sure that employees are aware of how they perform in their job."
+        },
+        {
+          "number": 5,
+          "question": "Recognizes and celebrates accomplishments of others."
+        },
+        {
+          "number": 6,
+          "question": "Is aware of the career development goals of subordinates."
+        }
+      ]
+    },
+    {
+      "category": "Coworker Development",
+      "id": 11,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Coaches/mentors individuals outside of direct team for performance improvement and to help them be effective coaches for others"
+        },
+        {
+          "number": 2,
+          "question": "Gives others development opportunities through project assignments and increased job responsibilities"
+        },
+        {
+          "number": 3,
+          "question": "Sets and clearly communicates expectations, performance goals, and measurements to others"
+        },
+        {
+          "number": 4,
+          "question": "Teaches Situational Leadership principles to team members"
+        },
+        {
+          "number": 5,
+          "question": "Writes performance reviews based upon facts and demonstrated behaviors"
+        },
+        {
+          "number": 6,
+          "question": "Provides specific, timely, meaningful feedback for Supervisor team when performance is substandard, pointing out deficiencies as they occur"
+        }
+      ]
+    },
+    {
+      "category": "Teamwork",
+      "id": 12,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Encourages collaboration with other departments."
+        },
+        {
+          "number": 2,
+          "question": "Coaches team members to work toward a common goal."
+        },
+        {
+          "number": 3,
+          "question": "Identifies and resolves conflicts within the team to increase team effectiveness"
+        },
+        {
+          "number": 4,
+          "question": "Provides assistance and support to other team members when needed"
+        },
+        {
+          "number": 5,
+          "question": "Seeks and listens to other's contributions"
+        },
+        {
+          "number": 6,
+          "question": "Facilitates the development of team/unit work standards"
+        },
+        {
+          "number": 7,
+          "question": "Recognizes and respects the contributions and needs of each individual."
+        },
+        {
+          "number": 8,
+          "question": "Fosters respect and understanding among team members"
+        }
+      ]
+    },
+    {
+      "category": "Recognition",
+      "id": 13,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Recognizes team members who offer a significant contribution to a project."
+        },
+        {
+          "number": 2,
+          "question": "Offers recognition that is proportional to the accomplishment."
+        },
+        {
+          "number": 3,
+          "question": "Compliments other people when they do good work"
+        },
+        {
+          "number": 4,
+          "question": "Develops recognition events that reward and motivate others."
+        },
+        {
+          "number": 5,
+          "question": "Lets employees know when they have done well"
+        },
+        {
+          "number": 6,
+          "question": "Implements formal and informal recognition practices within the department."
+        }
+      ]
+    },
+    {
+      "category": "Leadership",
+      "id": 14,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Inspires a shared culture by keeping employees informed and working together."
+        },
+        {
+          "number": 2,
+          "question": "Inspires, encourages, and guides others toward the vision, mission, and goals."
+        },
+        {
+          "number": 3,
+          "question": "Doesn't show discouragement when facing setbacks."
+        },
+        {
+          "number": 4,
+          "question": "Runs efficient and effective meetings with agendas, action items, and accountabilities clearly spelled out"
+        },
+        {
+          "number": 5,
+          "question": "Empowers others to achieve results and holds them accountable for actions."
+        },
+        {
+          "number": 6,
+          "question": "Influences the decisions made at [Company]."
+        },
+        {
+          "number": 7,
+          "question": "Motivates others to reach and exceed organizational goals and objectives."
+        },
+        {
+          "number": 8,
+          "question": "Coaches others and prepares them for current and future business demands."
+        },
+        {
+          "number": 9,
+          "question": "Gives direct, constructive, and actionable feedback."
+        },
+        {
+          "number": 10,
+          "question": "Provides challenging assignments to employees."
+        },
+        {
+          "number": 11,
+          "question": "Recognizes and rewards employees for their accomplishments."
+        },
+        {
+          "number": 12,
+          "question": "Aligns manpower, designs work, an allocates tasks to achieve goals."
+        },
+        {
+          "number": 13,
+          "question": "Demonstrates effective leadership talent and skills"
+        }
+      ]
+    },
+    {
+      "category": "Management",
+      "id": 15,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Keep staff informed about what is happening in [Company]."
+        },
+        {
+          "number": 2,
+          "question": "Applies disciplinary measures without favoritism."
+        },
+        {
+          "number": 3,
+          "question": "Deliver effective feedback on a regular basis"
+        },
+        {
+          "number": 4,
+          "question": "Inspires, encourages, and guides others toward the vision, mission, and goals."
+        },
+        {
+          "number": 5,
+          "question": "Allocates as much time as needed for task completion."
+        }
+      ]
+    },
+    {
+      "category": "Managing Performance",
+      "id": 16,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Obtains commitment from employees regarding completion of tasks."
+        },
+        {
+          "number": 2,
+          "question": "Measures performance against goals and objectives."
+        },
+        {
+          "number": 3,
+          "question": "Sets specific and measurable goals for others and follows through to completion."
+        },
+        {
+          "number": 4,
+          "question": "Prioritizes the work of others."
+        },
+        {
+          "number": 5,
+          "question": "Is consistent in disciplinary/corrective actions."
+        },
+        {
+          "number": 6,
+          "question": "Uses timely and appropriate corrective/disciplinary actions."
+        }
+      ]
+    },
+    {
+      "category": "Performance",
+      "id": 17,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Effective in performing his/her job."
+        },
+        {
+          "number": 2,
+          "question": "Encourages others to increase their job performance."
+        },
+        {
+          "number": 3,
+          "question": "Meets regularly to discuss job performance."
+        },
+        {
+          "number": 4,
+          "question": "Uses relevant facts to measure & track progress toward achievement of individual & team goals"
+        },
+        {
+          "number": 5,
+          "question": "Sets high goals and strives to meet them."
+        },
+        {
+          "number": 6,
+          "question": "Displays organizational savvy; knows who to contact in order to get things done."
+        }
+      ]
+    },
+    {
+      "category": "Vision",
+      "id": 18,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Understands the vision of [Company] and promotes it ahead of any self-interests."
+        },
+        {
+          "number": 2,
+          "question": "Communicates a vision of where [Company] needs to be in the future."
+        },
+        {
+          "number": 3,
+          "question": "Motivates employees to do things in a new way."
+        },
+        {
+          "number": 4,
+          "question": "Creates a positive vision of the future for [Company]."
+        },
+        {
+          "number": 5,
+          "question": "Persuades others to follow [Company]'s vision."
+        },
+        {
+          "number": 6,
+          "question": "Demonstrates consistency between words and actions"
+        }
+      ]
+    }
+  ]
+}

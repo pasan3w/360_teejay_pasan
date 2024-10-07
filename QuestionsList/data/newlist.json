@@ -1,0 +1,41 @@
+{
+    "EvaluationCriteria": [
+        {
+            "category": "Strategic Ability & Sound Business Judgement",
+            "id": 1,
+            "QuestionList": [
+                { "number": 1, "question": "Anticipates the changes in the external environment to be able to understand its impact on the current business." },
+                { "number": 2, "question": "Anticipates the changes within the team/department/SBU to be able to understand its impact on the current business." },
+                { "number": 3, "question": "Is able to understand the strategic intent of the business and ADVANTIS." }
+            ]
+        },
+        {
+            "category": "Innovation & Change Agent",
+            "id": 2,
+            "QuestionList": [
+                { "number": 1, "question": "Is able to come up with 'out of the box' ideas in executing assigned duties." },
+                { "number": 2, "question": "Is innovative: willing to try something new/challenging if it offers improvement." }
+            ]
+        },
+        {
+            "category" : "Initiative & Follow Through", 
+            "id" : 3, 
+            "QuestionList" : [
+                { "number": 1, "question": "Shares lessons learnt from past experiences and encourage the team to incorporate best practices ."}, 
+                { "number": 2, "question": "Gives careful attention to compliance standards, systems and procedures within team/department/ADVANTIS."},
+                { "number": 3, "question": "Has ability to get others committed and drive key priorities that drive results ."}
+            ]
+        },
+        {
+            "category" : "Text Input",
+            "id" : 4,
+            "QuestionList" : [
+                { "number": 1, "question": "What strengths/ talents do you see in the appraisee?", "type" : 1},
+                { "number": 2, "question": "What practices should the appraisee avoid or stop doing to become more effective in his professional life?", "type" : 1},
+                { "number": 3, "question": "What areas of development/training should the appraisee go through to become more effective?", "type" : 1},
+                { "number": 4, "question": "Any other remarks?", "type" : 1}
+            ]           
+       
+        }      
+    ]
+}

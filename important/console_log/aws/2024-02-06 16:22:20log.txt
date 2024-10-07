@@ -1,0 +1,43 @@
+2024-02-06 16:22:20 - Questionare ID is NOT selected.<pre><h2>Survey ID</h2>105<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => OS 02
+    [Name] => Irshad Iqbal
+    [DepartmentName] => 3W Centre (IT)
+    [JobTitleName] => CTO
+    [EmailAddress] => irshad@3rdwave.lk
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => pasan.chathinthaka.perera@gmail.com
+            [Name] => Pasan Perera
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasan.chathinthaka.perera@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => test@test.com
+            [Name] => test tested
+            [DepartmentName] => test Dept
+            [JobTitleName] => test Designation
+            [EmailAddress] => test@test.com
+            [type] => External
+            [check] => yes
+        )
+
+)
+<hr>value: <br>After Mapping: -------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=105, State=1
+Survey State=1
+No duplicate assignments found for survey_id=105, employee=OS 02 by surveyor=OS 02
+AssignSurvey Failed due to Exception:SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SurveyorType' cannot be null
+-------------------------AssignSurvey:[end]-----------------------------
+

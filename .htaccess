@@ -1,0 +1,11 @@
+RewriteEngine on
+
+RewriteRule ^home/ view/createQuestionList.php [NC,QSA,L]
+RewriteRule ^about/(sn|en) about.php?lang=$1 [NC,QSA,L]
+RewriteRule ^gallery/(sn|en) gallery.php?lang=$1 [NC,QSA,L]
+RewriteRule ^donations/(sn|en) donations.php?lang=$1 [NC,QSA,L]
+RewriteRule ^contact/(sn|en) contact.php?lang=$1 [NC,QSA,L]
+
+Options -Indexes
+
+ErrorDocument 404 /404.php

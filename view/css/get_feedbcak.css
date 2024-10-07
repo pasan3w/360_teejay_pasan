@@ -1,0 +1,58 @@
+table, th, td {
+	border: 1px black solid;
+}
+
+table {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+td.category1, td.category3, td.category5, td.category7, th.category1, th.category3, th.category5, th.category7  {
+  background-color: #D6EEEE;
+}
+
+td.category2, td.category4, td.category6, th.category2, th.category4, th.category6  {
+  background-color: #abc14e;
+}
+
+#exportButton {
+	margin: 20px;
+}
+
+body {
+	background-image: url("../../img/createSurveybg.jpg");
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 20px;
+}
+
+#contentBox {
+	box-shadow: 0 8px 6px -6px black;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 10px;
+	border-radius: 25px;
+}
+
+#question_list_id {
+	width: 40%;
+}
+
+btn  {
+	box-shadow: 0 8px 6px -6px black;
+}
+
+.subtopic {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+span {
+	text-align: left;
+	padding-left: 50px;
+}

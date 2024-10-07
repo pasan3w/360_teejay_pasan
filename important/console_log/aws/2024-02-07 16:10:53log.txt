@@ -1,0 +1,42 @@
+2024-02-07 16:10:53 - <pre><h2>Survey ID</h2>107<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => MT 03
+    [Name] => Pahani Gamage
+    [DepartmentName] => 3WC
+    [JobTitleName] => Management Trainee
+    [EmailAddress] => pahani@3rdwaveconsulting.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => FTC 01
+            [Name] => Anna Malsirini Kumari Bandara
+            [DepartmentName] => 3WC
+            [JobTitleName] => Manager Operations (3WC/3WA)
+            [EmailAddress] => malsirini@3rdwaveconsulting.com
+            [type] => Reporting Manager
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => 70
+            [Name] => Ronalie Jayaweera
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Associate Marketing
+            [EmailAddress] => ronalie@3wge.com
+            [type] => Internal
+            [check] => yes
+        )
+
+)
+<hr><script>alert('Self');</script>-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=107, State=1
+Survey State=1
+SurveyID: 107 already contains a SurveyAssignment for employee:MT 03 by surveyor MT 03, number of duplicate assignments=1
+Error: Illegal Survey Assignment
+

@@ -1,0 +1,185 @@
+Questionare ID is NOT selected.<pre><h2>Survey ID</h2>101<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => 1
+    [Name] => Iresha Dasanayaka
+    [DepartmentName] => 3WGE
+    [JobTitleName] => Head of branch cum  Snr Visa Officer - CMB
+    [EmailAddress] => iresha@3wge.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => 69
+            [Name] => Bernice Roche
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Manager Operations
+            [EmailAddress] => bernice@3wge.com
+            [type] => Reporting Manager
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => 74
+            [Name] => Shiromy Patrick
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Visa officer cum student Counsellor
+            [EmailAddress] => shirmoy@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [2] => Array
+        (
+            [EID] => 76
+            [Name] => Dilhani Perera
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Snr Student Counsellor
+            [EmailAddress] => Dilhani@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [3] => Array
+        (
+            [EID] => 58
+            [Name] => Mihiri Dasanayake
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Head of branch cum Snr Student Counsellor - Kandy
+            [EmailAddress] => mihiri@3wge.com
+            [type] => Peer
+            [check] => yes
+        )
+
+    [4] => Array
+        (
+            [EID] => 70
+            [Name] => Ronalie Jayaweera
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Associate Marketing
+            [EmailAddress] => ronalie@3wge.com
+            [type] => Internal
+            [check] => yes
+        )
+
+    [5] => Array
+        (
+            [EID] => OS 02
+            [Name] => Irshad Iqbal
+            [DepartmentName] => 3W Centre (IT)
+            [JobTitleName] => CTO
+            [EmailAddress] => irshad@3rdwave.lk
+            [type] => Internal
+            [check] => yes
+        )
+
+    [6] => Array
+        (
+            [EID] => pasan.chathinthaka.perera@gmail.com
+            [Name] => Pasan Perera
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasan.chathinthaka.perera@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+)
+<hr>http://3.128.173.197/360/surveyPage.php?eid=1&type=Self&selectedIds=1&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=1
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=1, SurveyorType=Self to survey EID=1, Date=2024-01-04
+2024-01-04 09:14:18 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:14:48 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:14:48 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=Reporting+Manager&selectedIds=69&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=69
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=69, SurveyorType=ReportingManager to survey EID=1, Date=2024-01-04
+2024-01-04 09:14:48 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:15:18 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:15:18 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=Direct+Reporting&selectedIds=74&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=74
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=74, SurveyorType=DirectReport to survey EID=1, Date=2024-01-04
+2024-01-04 09:15:18 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:15:48 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:15:48 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=Direct+Reporting&selectedIds=76&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=76
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=76, SurveyorType=DirectReport to survey EID=1, Date=2024-01-04
+2024-01-04 09:15:48 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:16:18 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:16:18 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=Peer&selectedIds=58&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=58
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=58, SurveyorType=Peer to survey EID=1, Date=2024-01-04
+2024-01-04 09:16:18 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:16:48 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:16:48 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=Internal&selectedIds=70&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=70
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=70, SurveyorType=InternalSurveyor to survey EID=1, Date=2024-01-04
+2024-01-04 09:16:48 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:17:18 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:17:18 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=Internal&selectedIds=OS+02&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=OS 02
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=OS 02, SurveyorType=InternalSurveyor to survey EID=1, Date=2024-01-04
+2024-01-04 09:17:18 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:17:48 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:17:48 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out
+http://3.128.173.197/360/surveyPage.php?eid=1&type=External&selectedIds=pasan.chathinthaka.perera%40gmail.com&surveyId=101-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=101, State=1
+Survey State=1
+No duplicate assignments found for survey_id=101, employee=1 by surveyor=pasan.chathinthaka.perera@gmail.com
+AssignSurvey:Successful SurveyId=101, AssignorEID=test SurveyorEID=pasan.chathinthaka.perera@gmail.com, SurveyorType=ExternalSurveyor to survey EID=1, Date=2024-01-04
+2024-01-04 09:17:48 Connection: opening to mail.3rdwavepower.com:25, timeout=30, options=array()<br>
+2024-01-04 09:18:18 Connection failed. Error #2: stream_socket_client(): Unable to connect to mail.3rdwavepower.com:25 (Connection timed out) [/var/www/html/360/SendMail/vendor/phpmailer/phpmailer/src/SMTP.php line 398]<br>
+2024-01-04 09:18:18 SMTP ERROR: Failed to connect to server: Connection timed out (110)<br>
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting<br>
+Failed to send Message through primary port: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Failed to connect to server SMTP code: 110 Additional SMTP info: Connection timed out

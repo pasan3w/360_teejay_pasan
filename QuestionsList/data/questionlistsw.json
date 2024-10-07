@@ -1,0 +1,76 @@
+{
+    "EvaluationCriteria": [
+        {
+            "category": "Requirements Gathering",
+            "id": 1,
+            "QuestionList": [
+                { "number": 1, "question": "Conducts a thorough feasibility study of developing the application prior to start of the project." },
+                { "number": 2, "question": "Carries out comprehensive discussions with the client to gather requirements." },
+                { "number": 3, "question": "All factors involved in System performance are obtained from the client and documented." }
+            ]
+        },
+        {
+            "category": "Design",
+            "id": 2,
+            "QuestionList": [
+                { "number": 1, "question": "Follows an Object Oriented method in designing the system." },
+                { "number": 2, "question": "All requirements are addessed in the design." },
+                { "number": 3, "question": "Conducts several design review session to improve the design." }
+            ]
+        },
+        {
+            "category": "Documentation",
+            "id": 3,
+            "QuestionList": [
+                { "number": 1, "question": "Requirements document shared with team and signed off from client and published." },
+                { "number": 2, "question": "Design document shared with team and signed off from client and published.." },
+                { "number": 3, "question": "Project plan created and tasks assigned to team members." }
+            ]
+        },
+        {
+            "category": "Self Discipline",
+            "id": 4,
+            "QuestionList": [
+                { "number": 1, "question": "Strives towards delivering assignments undertaken to agreed deadlines with the team. Disciplined to finish on time without procrastinations" },
+                { "number": 2, "question": "Proactive & Organized. Plan the work well in advance and rarely excuses for delays" },
+                { "number": 3, "question": "Punctual to work meetings and appointments and have a clear objective" }
+            ]
+        },
+        {
+            "category" : "Leadership", 
+            "id" : 5, 
+            "QuestionList" : [
+                { "number": 1, "question": "Delegates tasks responsibly. Empowers the team members"}, 
+                { "number": 2, "question": "Motivates the team members to get the job done rather than impose  authority to accomplish tasks"},
+                { "number": 3, "question": "Ready to take any kind of challenge and drive towards the change."}
+            ]
+        },
+        { 
+            "category" : "Decision Making",
+             "id" : 6,
+              "QuestionList" : [
+                { "number": 1, "question": "Demonstrates transperancy in the decision making process"},
+                { "number": 2, "question": "Involves team members in the decision making process"},
+                { "number": 3, "question": "Represents the team members and their challenges during the management decision making process"}
+            ]
+        },
+        { 
+            "category" : "Trouble Shooting", 
+            "id" : 7, 
+            "QuestionList" : [
+                { "number": 1, "question": "Publish a detailed description of an issue with steps to reproduce."},
+                { "number": 2, "question": "Ability to narrow down the location of an issue."},
+                { "number": 3, "question": "Get help from team members the internet to find resolutions."}
+            ]
+        },
+        {
+            "category" : "Coding",
+            "id" : 8,
+            "QuestionList" : [
+                { "number": 1, "question": "Ability to pick up new technologies and languages quickly."},
+                { "number": 2, "question": "Follow best programming practices during software development."},
+                { "number": 3, "question": "Writes comprehensive test cases to comprehensively test components developed."}
+            ]
+        }
+    ]
+}

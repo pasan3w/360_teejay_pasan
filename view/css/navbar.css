@@ -1,0 +1,37 @@
+#topnav {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: Black;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+.nav-link {
+    display: inline-block;
+    color: White;
+    font-size: 20px;
+    text-align: center;
+    line-height: 55px;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.nav-link:hover {
+    color: black;
+    background-color: white;
+}
+
+#logo {
+    width: 120px;
+    background-color: RoyalBlue;
+    font-weight: bold;
+}
+
+#logout {
+    position: absolute;
+    top: 0;
+    right: 10px;
+}

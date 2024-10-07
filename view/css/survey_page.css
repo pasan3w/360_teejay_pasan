@@ -1,0 +1,137 @@
+@import url('https://fonts.cdnfonts.com/css/product-sans');
+
+body {
+  font-family: 'Product Sans', sans-serif;
+}
+
+.wrapper{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button{
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid #333;
+  letter-spacing: 2px;
+  text-align: center;
+  position: relative;
+  transition: all .35s;
+}
+
+button span{
+  position: relative;
+  z-index: 999;
+}
+
+button:after{
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #00ff00;
+  transition: all .35s;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+button:hover{
+  color: #00ff00;
+}
+
+button:hover:after{
+  width: 100%;
+}
+
+/*=======================================================*/
+
+body {
+	background: white;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+span {
+	margin-left: 20px;	
+}
+
+input {
+	margin-right: 30px;
+}
+
+p {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#beforeOK {
+	box-shadow: 0 8px 6px -6px black;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+  bottom: 40px;
+  border: 1px solid black; 
+  margin: 10px; 
+  padding: 20px; 
+  border-radius: 20px; 
+  display: block;
+}
+
+#afterOK {
+  display: none; 
+  color: white; 
+  font-size: 20px;
+}
+
+#afterOK_header {
+  padding-left: 40px; 
+  position: fixed;
+  background-color: #004d4d; 
+  width: 100%; 
+  top: 0; 
+  max-height: 300px;
+}
+
+#question_list {
+  background-color: #004d4d;
+  color: white;
+  top: 0;
+  font-family: 'Product Sans', sans-serif;
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Product Sans', sans-serif;
+}
+
+.left {
+  text-align: left;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 1);
+    padding: 10px;
+}
+
+#contentBox {
+  box-shadow: 0 8px 6px -6px black;
+  color: black;
+  padding: 10px;
+}

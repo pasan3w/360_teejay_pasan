@@ -1,0 +1,436 @@
+{
+  "EvaluationCriteria": [
+    {
+      "category": "Accountability",
+      "id": 1,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Acts like an owner when they make decisions. "
+        },
+        {
+          "number": 2,
+          "question": "Can be counted on to do what they say they are going to do. "
+        },
+        {
+          "number": 3,
+          "question": "Defines roles, rights, and responsibilities of employees"
+        },
+        {
+          "number": 4,
+          "question": "Tackles issues head on and finds solutions. "
+        },
+        {
+          "number": 5,
+          "question": "Takes responsibility for results. "
+        },
+        {
+          "number": 6,
+          "question": "Takes ownership of mistakes and learns from them. "
+        },
+        {
+          "number": 7,
+          "question": "Is someone you can trust. "
+        },
+        {
+          "number": 8,
+          "question": "Is someone who is there when you need them. "
+        },
+        {
+          "number": 9,
+          "question": "Encourages employees to take on greater responsibilities"
+        },
+        {
+          "number": 10,
+          "question": "Informs supervisor of progress without having to be asked about it "
+        }
+      ]
+    },
+    {
+      "category": "Communication Style",
+      "id": 2,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Presents issues, ideas, and strategy concisely and clearly."
+        },
+        {
+          "number": 2,
+          "question": "Encourages Open Communication "
+        },
+        {
+          "number": 3,
+          "question": "Conveys priorities with right sense of urgency and importance. "
+        },
+        {
+          "number": 4,
+          "question": "Deals with difficult situations calmly and confidently"
+        },
+        {
+          "number": 5,
+          "question": "Conveys ideas confidently and succinctly. "
+        },
+        {
+          "number": 6,
+          "question": "Delivers difficult messages to co-workers in an appropriate manner "
+        },
+        {
+          "number": 7,
+          "question": "Considers the audience in how the communication is presented."
+        }
+      ]
+    },
+    {
+      "category": "Interpersonal Skills",
+      "id": 3,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Takes time to listen to you"
+        },
+        {
+          "number": 2,
+          "question": "Relates to all kinds of people tactfully, from shop floor to executives "
+        },
+        {
+          "number": 3,
+          "question": "Listens actively & speaks clearly and directly. "
+        },
+        {
+          "number": 4,
+          "question": "Is visible and approachable"
+        },
+        {
+          "number": 5,
+          "question": "An effective listener who is responsive to information needs "
+        },
+        {
+          "number": 6,
+          "question": "Conducts regular performance feedback discussions with individuals and teams "
+        },
+        {
+          "number": 7,
+          "question": "Accurately attends to/understands ideas which are exchanged."
+        }
+      ]
+    },
+    {
+      "category": "Impact",
+      "id": 4,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Communicates the vision of the organization to all employees"
+        },
+        {
+          "number": 2,
+          "question": "Informs others about changes or developments in plans and goals"
+        },
+        {
+          "number": 3,
+          "question": "Explains reasons behind decisions and actions"
+        },
+        {
+          "number": 4,
+          "question": "Has the confidence to communicate effectively to all levels (from CEO down) of the organization, external customers, suppliers, as well as the senior counsel of other companies. "
+        },
+        {
+          "number": 5,
+          "question": "Inspires others to take action based on his/her communications "
+        },
+        {
+          "number": 6,
+          "question": "Reviews any \"action steps\" resulting from meetings or conversations before concluding to ensure clarity and that plans will be executed"
+        }
+      ]
+    },
+    {
+      "category": "Situational Awareness",
+      "id": 5,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Accepts the views of others. "
+        },
+        {
+          "number": 2,
+          "question": "Actively seeks feedback from others. "
+        },
+        {
+          "number": 3,
+          "question": "Asks others for their ideas and opinions. "
+        },
+        {
+          "number": 4,
+          "question": "Is easy to approach with ideas and opinions"
+        },
+        {
+          "number": 5,
+          "question": "Looks to others for input"
+        },
+        {
+          "number": 6,
+          "question": "Seeks and utilizes data from several sources. "
+        },
+        {
+          "number": 7,
+          "question": "Seeks feedback to enhance performance. "
+        }
+      ]
+    },
+    {
+      "category": "Business Acumen",
+      "id": 6,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Is goal-directed, persistent, and driven to achieve objectives (sets direction)"
+        },
+        {
+          "number": 2,
+          "question": "Identifies and pursues resources needed to improve performance (allocate resources) "
+        },
+        {
+          "number": 3,
+          "question": "Understands and applies ethical business and financial principles "
+        },
+        {
+          "number": 4,
+          "question": "Accurately evaluates the implications of new information or events "
+        },
+        {
+          "number": 5,
+          "question": "Views problems from a business perspective, opportunity, investment, risks and anticipated results "
+        },
+        {
+          "number": 6,
+          "question": "Effects outcomes that set high standards for others"
+        }
+      ]
+    },
+    {
+      "category": "Leading Others",
+      "id": 7,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Maximizes the efforts of all team members"
+        },
+        {
+          "number": 2,
+          "question": "Able to organize the work of others"
+        },
+        {
+          "number": 3,
+          "question": "Aligns manpower, designs work, and allocates tasks to achieve goals."
+        },
+        {
+          "number": 4,
+          "question": "Uses persuasion and influence instead of micromanaging employees "
+        },
+        {
+          "number": 5,
+          "question": "Empowers others to achieve results and holds them accountable for actions. "
+        },
+        {
+          "number": 6,
+          "question": "Motivates others to reach and exceed organizational goals and objectives. "
+        },
+        {
+          "number": 7,
+          "question": "Inspires a shared vision of being the best"
+        }
+      ]
+    },
+    {
+      "category": "Leading by Example",
+      "id": 8,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Critiques own performance as a means of self-improvement and initiates self-development activities"
+        },
+        {
+          "number": 2,
+          "question": "Takes ownership and accountability for results "
+        },
+        {
+          "number": 3,
+          "question": "Projects a \"can-do\" attitude when interfacing with peers, subordinates and customers(especially during difficult and challenging times). "
+        },
+        {
+          "number": 4,
+          "question": "Acts decisively in implementing decisions"
+        },
+        {
+          "number": 5,
+          "question": "Encourages and is receptive to working out problems and challenges --- no reluctance from team members to come forward with concerns/issues. "
+        },
+        {
+          "number": 6,
+          "question": "Supports Company sponsored training and development initiatives. "
+        },
+        {
+          "number": 7,
+          "question": "Implements decision and evaluates results."
+        }
+      ]
+    },
+    {
+      "category": "Problem Solving",
+      "id": 9,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Ability to solve problems at root cause rather than at symptom level"
+        },
+        {
+          "number": 2,
+          "question": "Develops innovative solutions to problems"
+        },
+        {
+          "number": 3,
+          "question": "Analyzes alternatives and selects a course of action. "
+        },
+        {
+          "number": 4,
+          "question": "Assumes new and difficult challenges and manages them as opportunities. "
+        },
+        {
+          "number": 5,
+          "question": "Collects relevant information and data. "
+        },
+        {
+          "number": 6,
+          "question": "Identifies fresh approaches and shows a willingness to question traditional assumptions. "
+        },
+        {
+          "number": 7,
+          "question": "Implements solutions and evaluates results. "
+        },
+        {
+          "number": 8,
+          "question": "Makes judgments based upon relevant information. "
+        },
+        {
+          "number": 9,
+          "question": "Analyzes systems and processes for opportunities to gain efficiency. "
+        },
+        {
+          "number": 10,
+          "question": "Is aware of problems or issues that may affect the organization"
+        },
+        {
+          "number": 11,
+          "question": "Looks for opportunities to enhance contributions to the bottom line"
+        }
+      ]
+    },
+    {
+      "category": "Is a Team Player",
+      "id": 10,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Demonstrates compassion and respect for others through actions; is concerned about their work and non-work issues"
+        },
+        {
+          "number": 2,
+          "question": "Is open to new ideas that may change own goals for benefit of the team "
+        },
+        {
+          "number": 3,
+          "question": "Comes across as a reliable, committed team member "
+        },
+        {
+          "number": 4,
+          "question": "Helps other managers in need of assistance, such as providing needed resources (co-workers, supplies, etc.) "
+        },
+        {
+          "number": 5,
+          "question": "Partners with people from other work units to improve overall performance "
+        },
+        {
+          "number": 6,
+          "question": "Contributes to and supports team decision-making process "
+        },
+        {
+          "number": 7,
+          "question": "Is open to the suggestions of others when working on a problem"
+        },
+        {
+          "number": 8,
+          "question": "Facilitates team discussions and problem-solving"
+        }
+      ]
+    },
+    {
+      "category": "Promotes Teamwork",
+      "id": 11,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Fosters teamwork rather than individual competition"
+        },
+        {
+          "number": 2,
+          "question": "Promotes open participation and communication within department and throughout the organization."
+        },
+        {
+          "number": 3,
+          "question": "Creates a culture that fosters and values collaboration"
+        },
+        {
+          "number": 4,
+          "question": "Creates a climate that encourages team participation"
+        },
+        {
+          "number": 5,
+          "question": "Ensures that the right people are on the team in the appropriate roles, including who should be team leader for a particular project/situation. "
+        },
+        {
+          "number": 6,
+          "question": "Facilitates conflict resolution discussions between individuals in different teams "
+        },
+        {
+          "number": 7,
+          "question": "Creates and implements team reward and recognition programs "
+        },
+        {
+          "number": 8,
+          "question": "Creates opportunities to learn with other team members"
+        }
+      ]
+    },
+    {
+      "category": "Professional Presence",
+      "id": 12,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Develops a reputation as a \"go-to\" resource sought out by others "
+        },
+        {
+          "number": 2,
+          "question": "Gains commitment by persuading, not by demanding "
+        },
+        {
+          "number": 3,
+          "question": "Commands the attention of an audience of one or many "
+        },
+        {
+          "number": 4,
+          "question": "Remains focused on guiding others towards most important objectives (ensure execution) "
+        },
+        {
+          "number": 5,
+          "question": "Creates a professional image that establishes and maintains credibility "
+        },
+        {
+          "number": 6,
+          "question": "Establishes influential contacts both inside and outside the company"
+        }
+      ]
+    }
+  ]
+}

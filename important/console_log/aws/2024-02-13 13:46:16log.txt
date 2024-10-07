@@ -1,0 +1,275 @@
+2024-02-13 13:46:16 - <pre><h2>Survey ID</h2>107<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => 58
+    [Name] => Mihiri Dasanayake
+    [DepartmentName] => 3WGE
+    [JobTitleName] => Head of branch cum Snr Student Counsellor - Kandy
+    [EmailAddress] => mihiri@3wge.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => pasan.chathinthaka.perera@gmail.com
+            [Name] => Pasan Perera
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasan.chathinthaka.perera@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => codeshoplanka@gmail.com
+            [Name] => Pasan Chathinthaka
+            [DepartmentName] => Group
+            [JobTitleName] => CEO
+            [EmailAddress] => codeshoplanka@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+)
+<hr><script>alert('Self');</script>-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=107, State=1
+Survey State=1
+No duplicate assignments found for survey_id=107, employee=58 by surveyor=58
+AssignSurvey:Successful SurveyId=107, AssignorEID=test SurveyorEID=58, SurveyorType=Self to survey EID=58, Date=2024-02-13
+2024-02-13 08:15:42 Connection: opening to mail.3rdwavepower.com:587, timeout=100, options=array()<br>
+2024-02-13 08:15:43 Connection: opened<br>
+2024-02-13 08:15:44 SERVER -&gt; CLIENT: 220-n3plcpnl0084.prod.ams3.secureserver.net ESMTP Exim 4.96.2 #2 Tue, 13 Feb 2024 01:15:44 -0700 220-We do not authorize the use of this system to transport unsolicited, 220 and/or bulk e-mail.<br>
+2024-02-13 08:15:44 Server Response:220<br>
+2024-02-13 08:15:44 CLIENT -&gt; SERVER: EHLO localhost<br>
+2024-02-13 08:15:45 SERVER -&gt; CLIENT: 250-n3plcpnl0084.prod.ams3.secureserver.net Hello localhost [112.135.193.137]250-SIZE 52428800250-8BITMIME250-PIPELINING250-PIPECONNECT250-AUTH PLAIN LOGIN250-STARTTLS250 HELP<br>
+2024-02-13 08:15:45 CLIENT -&gt; SERVER: STARTTLS<br>
+2024-02-13 08:15:45 SERVER -&gt; CLIENT: 220 TLS go ahead<br>
+2024-02-13 08:15:46 CLIENT -&gt; SERVER: EHLO localhost<br>
+2024-02-13 08:15:46 SERVER -&gt; CLIENT: 250-n3plcpnl0084.prod.ams3.secureserver.net Hello localhost [112.135.193.137]250-SIZE 52428800250-8BITMIME250-PIPELINING250-PIPECONNECT250-AUTH PLAIN LOGIN250 HELP<br>
+2024-02-13 08:15:46 CLIENT -&gt; SERVER: AUTH LOGIN<br>
+2024-02-13 08:15:47 SERVER -&gt; CLIENT: 334 VXNlcm5hbWU6<br>
+2024-02-13 08:15:47 CLIENT -&gt; SERVER: [credentials hidden]<br>
+2024-02-13 08:15:47 SERVER -&gt; CLIENT: 334 UGFzc3dvcmQ6<br>
+2024-02-13 08:15:47 CLIENT -&gt; SERVER: [credentials hidden]<br>
+2024-02-13 08:15:47 SERVER -&gt; CLIENT: 235 Authentication succeeded<br>
+2024-02-13 08:15:47 CLIENT -&gt; SERVER: MAIL FROM:&lt;survey360@3rdwavepower.com&gt;<br>
+2024-02-13 08:15:48 SERVER -&gt; CLIENT: 250 OK<br>
+2024-02-13 08:15:48 CLIENT -&gt; SERVER: RCPT TO:&lt;mihiri@3wge.com&gt;<br>
+2024-02-13 08:15:48 SERVER -&gt; CLIENT: 250 Accepted<br>
+2024-02-13 08:15:48 CLIENT -&gt; SERVER: DATA<br>
+2024-02-13 08:15:49 SERVER -&gt; CLIENT: 354 Enter message, ending with &quot;.&quot; on a line by itself<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Date: Tue, 13 Feb 2024 13:45:42 +0530<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: To: Mihiri Dasanayake &lt;mihiri@3wge.com&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: From: Survey360 Admin &lt;survey360@3rdwavepower.com&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Subject: self Survey Request for Employee: Mihiri Dasanayake<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Message-ID: &lt;mpJf09mGixrdHCjTTeEAoLm8VvjGjl8oqjqwQyMs@localhost&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: MIME-Version: 1.0<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Content-Type: multipart/alternative;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER:  boundary=&quot;b1=_mpJf09mGixrdHCjTTeEAoLm8VvjGjl8oqjqwQyMs&quot;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Content-Transfer-Encoding: 8bit<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: --b1=_mpJf09mGixrdHCjTTeEAoLm8VvjGjl8oqjqwQyMs<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Content-Type: text/plain; charset=us-ascii<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: ------360Survey Request for Mihiri Dasanayake------<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Please complete the self 360Survey evaluation of Employee: Mihiri Dasanayake.<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Provide your feedback at: http://3.128.173.197/surveyPage.php?eid=58&amp;type=Self&amp;selectedIds=58&amp;surveyId=107<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Once complete, please press the Submit button to forward your Feedback.<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Appreciate your help in completing this survey at your earliest convenience.<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Thank You<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: --b1=_mpJf09mGixrdHCjTTeEAoLm8VvjGjl8oqjqwQyMs<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Content-Type: text/html; charset=us-ascii<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;!DOCTYPE html&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;html lang=&quot;en&quot;&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;head&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER:   &lt;title&gt;360 Survey  Invite&lt;/title&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;/head&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;body&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;h2&gt;360Survey Request for Mihiri Dasanayake&lt;/h2&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;p&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Please carry out the 360Survey evaluation as &lt;b&gt;self&lt;/b&gt; of Employee:&lt;b&gt;Mihiri Dasanayake&lt;/b&gt;.&lt;br&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Provide your feedback at: http://3.128.173.197/surveyPage.php?eid=58&amp;type=Self&amp;selectedIds=58&amp;surveyId=107&lt;br&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Once complete, please press the &lt;b&gt;Submit&lt;/b&gt; button to upload your Feedback.&lt;br&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Appreciate your help in completing this survey at your earliest convenience.&lt;br&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;br&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: Thank You<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;/body&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: &lt;/html&gt;<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: --b1=_mpJf09mGixrdHCjTTeEAoLm8VvjGjl8oqjqwQyMs--<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: .<br>
+2024-02-13 08:15:49 SERVER -&gt; CLIENT: 250 OK id=1rZnxE-0067ab-2z<br>
+2024-02-13 08:15:49 CLIENT -&gt; SERVER: QUIT<br>
+2024-02-13 08:15:50 SERVER -&gt; CLIENT: 221 n3plcpnl0084.prod.ams3.secureserver.net closing connection<br>
+2024-02-13 08:15:50 Connection: closed<br>
+Email sent successfully through the primary port:587
+http://3.128.173.197/surveyPage.php?eid=58&type=External&selectedIds=pasan.chathinthaka.perera%40gmail.com&surveyId=107-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=107, State=1
+Survey State=1
+No duplicate assignments found for survey_id=107, employee=58 by surveyor=pasan.chathinthaka.perera@gmail.com
+AssignSurvey:Successful SurveyId=107, AssignorEID=test SurveyorEID=pasan.chathinthaka.perera@gmail.com, SurveyorType=ExternalSurveyor to survey EID=58, Date=2024-02-13
+2024-02-13 08:15:50 Connection: opening to mail.3rdwavepower.com:587, timeout=100, options=array()<br>
+2024-02-13 08:15:50 Connection: opened<br>
+2024-02-13 08:15:51 SERVER -&gt; CLIENT: 220-n3plcpnl0084.prod.ams3.secureserver.net ESMTP Exim 4.96.2 #2 Tue, 13 Feb 2024 01:15:51 -0700 220-We do not authorize the use of this system to transport unsolicited, 220 and/or bulk e-mail.<br>
+2024-02-13 08:15:51 Server Response:220<br>
+2024-02-13 08:15:51 CLIENT -&gt; SERVER: EHLO localhost<br>
+2024-02-13 08:15:51 SERVER -&gt; CLIENT: 250-n3plcpnl0084.prod.ams3.secureserver.net Hello localhost [112.135.193.137]250-SIZE 52428800250-8BITMIME250-PIPELINING250-PIPECONNECT250-AUTH PLAIN LOGIN250-STARTTLS250 HELP<br>
+2024-02-13 08:15:51 CLIENT -&gt; SERVER: STARTTLS<br>
+2024-02-13 08:15:51 SERVER -&gt; CLIENT: 220 TLS go ahead<br>
+2024-02-13 08:15:52 CLIENT -&gt; SERVER: EHLO localhost<br>
+2024-02-13 08:15:53 SERVER -&gt; CLIENT: 250-n3plcpnl0084.prod.ams3.secureserver.net Hello localhost [112.135.193.137]250-SIZE 52428800250-8BITMIME250-PIPELINING250-PIPECONNECT250-AUTH PLAIN LOGIN250 HELP<br>
+2024-02-13 08:15:53 CLIENT -&gt; SERVER: AUTH LOGIN<br>
+2024-02-13 08:15:53 SERVER -&gt; CLIENT: 334 VXNlcm5hbWU6<br>
+2024-02-13 08:15:53 CLIENT -&gt; SERVER: [credentials hidden]<br>
+2024-02-13 08:15:53 SERVER -&gt; CLIENT: 334 UGFzc3dvcmQ6<br>
+2024-02-13 08:15:53 CLIENT -&gt; SERVER: [credentials hidden]<br>
+2024-02-13 08:15:54 SERVER -&gt; CLIENT: 235 Authentication succeeded<br>
+2024-02-13 08:15:54 CLIENT -&gt; SERVER: MAIL FROM:&lt;survey360@3rdwavepower.com&gt;<br>
+2024-02-13 08:15:54 SERVER -&gt; CLIENT: 250 OK<br>
+2024-02-13 08:15:54 CLIENT -&gt; SERVER: RCPT TO:&lt;pasan.chathinthaka.perera@gmail.com&gt;<br>
+2024-02-13 08:15:55 SERVER -&gt; CLIENT: 250 Accepted<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: DATA<br>
+2024-02-13 08:15:55 SERVER -&gt; CLIENT: 354 Enter message, ending with &quot;.&quot; on a line by itself<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Date: Tue, 13 Feb 2024 13:45:50 +0530<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: To: Pasan Perera &lt;pasan.chathinthaka.perera@gmail.com&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: From: Survey360 Admin &lt;survey360@3rdwavepower.com&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Subject: External Survey Request for Employee: Mihiri Dasanayake<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Message-ID: &lt;McpkjziVyFc7pTjSN3lq7zZskioYzCS7EGhn5XM@localhost&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: MIME-Version: 1.0<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Content-Type: multipart/alternative;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER:  boundary=&quot;b1=_McpkjziVyFc7pTjSN3lq7zZskioYzCS7EGhn5XM&quot;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Content-Transfer-Encoding: 8bit<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: --b1=_McpkjziVyFc7pTjSN3lq7zZskioYzCS7EGhn5XM<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Content-Type: text/plain; charset=us-ascii<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: ------360Survey Request for Pasan Perera------<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Please complete the External 360Survey evaluation of Employee: Mihiri Dasanayake.<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Provide your feedback at: http://3.128.173.197/surveyPage.php?eid=58&amp;type=External&amp;selectedIds=pasan.chathinthaka.perera%40gmail.com&amp;surveyId=107<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Once complete, please press the Submit button to forward your Feedback.<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Appreciate your help in completing this survey at your earliest convenience.<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Thank You<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: --b1=_McpkjziVyFc7pTjSN3lq7zZskioYzCS7EGhn5XM<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Content-Type: text/html; charset=us-ascii<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;!DOCTYPE html&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;html lang=&quot;en&quot;&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;head&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER:   &lt;title&gt;360 Survey  Invite&lt;/title&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;/head&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;body&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;h2&gt;360Survey Request for Pasan Perera&lt;/h2&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;p&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Please carry out the 360Survey evaluation as &lt;b&gt;External&lt;/b&gt; of Employee:&lt;b&gt;Mihiri Dasanayake&lt;/b&gt;.&lt;br&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Provide your feedback at: http://3.128.173.197/surveyPage.php?eid=58&amp;type=External&amp;selectedIds=pasan.chathinthaka.perera%40gmail.com&amp;surveyId=107&lt;br&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Once complete, please press the &lt;b&gt;Submit&lt;/b&gt; button to upload your Feedback.&lt;br&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Appreciate your help in completing this survey at your earliest convenience.&lt;br&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;br&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: Thank You<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;/body&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: &lt;/html&gt;<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: --b1=_McpkjziVyFc7pTjSN3lq7zZskioYzCS7EGhn5XM--<br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:15:55 CLIENT -&gt; SERVER: .<br>
+2024-02-13 08:16:03 SERVER -&gt; CLIENT: 250 OK id=1rZnxL-0067nT-0r<br>
+2024-02-13 08:16:03 CLIENT -&gt; SERVER: QUIT<br>
+2024-02-13 08:16:03 SERVER -&gt; CLIENT: 221 n3plcpnl0084.prod.ams3.secureserver.net closing connection<br>
+2024-02-13 08:16:03 Connection: closed<br>
+Email sent successfully through the primary port:587
+http://3.128.173.197/surveyPage.php?eid=58&type=External&selectedIds=codeshoplanka%40gmail.com&surveyId=107-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=107, State=1
+Survey State=1
+No duplicate assignments found for survey_id=107, employee=58 by surveyor=codeshoplanka@gmail.com
+AssignSurvey:Successful SurveyId=107, AssignorEID=test SurveyorEID=codeshoplanka@gmail.com, SurveyorType=ExternalSurveyor to survey EID=58, Date=2024-02-13
+2024-02-13 08:16:03 Connection: opening to mail.3rdwavepower.com:587, timeout=100, options=array()<br>
+2024-02-13 08:16:03 Connection: opened<br>
+2024-02-13 08:16:04 SERVER -&gt; CLIENT: 220-n3plcpnl0084.prod.ams3.secureserver.net ESMTP Exim 4.96.2 #2 Tue, 13 Feb 2024 01:16:04 -0700 220-We do not authorize the use of this system to transport unsolicited, 220 and/or bulk e-mail.<br>
+2024-02-13 08:16:04 Server Response:220<br>
+2024-02-13 08:16:04 CLIENT -&gt; SERVER: EHLO localhost<br>
+2024-02-13 08:16:04 SERVER -&gt; CLIENT: 250-n3plcpnl0084.prod.ams3.secureserver.net Hello localhost [112.135.193.137]250-SIZE 52428800250-8BITMIME250-PIPELINING250-PIPECONNECT250-AUTH PLAIN LOGIN250-STARTTLS250 HELP<br>
+2024-02-13 08:16:04 CLIENT -&gt; SERVER: STARTTLS<br>
+2024-02-13 08:16:04 SERVER -&gt; CLIENT: 220 TLS go ahead<br>
+2024-02-13 08:16:05 CLIENT -&gt; SERVER: EHLO localhost<br>
+2024-02-13 08:16:06 SERVER -&gt; CLIENT: 250-n3plcpnl0084.prod.ams3.secureserver.net Hello localhost [112.135.193.137]250-SIZE 52428800250-8BITMIME250-PIPELINING250-PIPECONNECT250-AUTH PLAIN LOGIN250 HELP<br>
+2024-02-13 08:16:06 CLIENT -&gt; SERVER: AUTH LOGIN<br>
+2024-02-13 08:16:06 SERVER -&gt; CLIENT: 334 VXNlcm5hbWU6<br>
+2024-02-13 08:16:06 CLIENT -&gt; SERVER: [credentials hidden]<br>
+2024-02-13 08:16:06 SERVER -&gt; CLIENT: 334 UGFzc3dvcmQ6<br>
+2024-02-13 08:16:06 CLIENT -&gt; SERVER: [credentials hidden]<br>
+2024-02-13 08:16:07 SERVER -&gt; CLIENT: 235 Authentication succeeded<br>
+2024-02-13 08:16:07 CLIENT -&gt; SERVER: MAIL FROM:&lt;survey360@3rdwavepower.com&gt;<br>
+2024-02-13 08:16:07 SERVER -&gt; CLIENT: 250 OK<br>
+2024-02-13 08:16:07 CLIENT -&gt; SERVER: RCPT TO:&lt;codeshoplanka@gmail.com&gt;<br>
+2024-02-13 08:16:08 SERVER -&gt; CLIENT: 250 Accepted<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: DATA<br>
+2024-02-13 08:16:08 SERVER -&gt; CLIENT: 354 Enter message, ending with &quot;.&quot; on a line by itself<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Date: Tue, 13 Feb 2024 13:46:03 +0530<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: To: Pasan Chathinthaka &lt;codeshoplanka@gmail.com&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: From: Survey360 Admin &lt;survey360@3rdwavepower.com&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Subject: External Survey Request for Employee: Mihiri Dasanayake<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Message-ID: &lt;3ou6qKPFyiCRGEmKG4FsHQrIxmVT9S3r3lbeZdHYI@localhost&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: MIME-Version: 1.0<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Content-Type: multipart/alternative;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER:  boundary=&quot;b1=_3ou6qKPFyiCRGEmKG4FsHQrIxmVT9S3r3lbeZdHYI&quot;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Content-Transfer-Encoding: 8bit<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: --b1=_3ou6qKPFyiCRGEmKG4FsHQrIxmVT9S3r3lbeZdHYI<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Content-Type: text/plain; charset=us-ascii<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: ------360Survey Request for Pasan Chathinthaka------<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Please complete the External 360Survey evaluation of Employee: Mihiri Dasanayake.<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Provide your feedback at: http://3.128.173.197/surveyPage.php?eid=58&amp;type=External&amp;selectedIds=codeshoplanka%40gmail.com&amp;surveyId=107<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Once complete, please press the Submit button to forward your Feedback.<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Appreciate your help in completing this survey at your earliest convenience.<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Thank You<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: --b1=_3ou6qKPFyiCRGEmKG4FsHQrIxmVT9S3r3lbeZdHYI<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Content-Type: text/html; charset=us-ascii<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;!DOCTYPE html&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;html lang=&quot;en&quot;&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;head&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER:   &lt;title&gt;360 Survey  Invite&lt;/title&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;/head&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;body&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;h2&gt;360Survey Request for Pasan Chathinthaka&lt;/h2&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;p&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Please carry out the 360Survey evaluation as &lt;b&gt;External&lt;/b&gt; of Employee:&lt;b&gt;Mihiri Dasanayake&lt;/b&gt;.&lt;br&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Provide your feedback at: http://3.128.173.197/surveyPage.php?eid=58&amp;type=External&amp;selectedIds=codeshoplanka%40gmail.com&amp;surveyId=107&lt;br&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Once complete, please press the &lt;b&gt;Submit&lt;/b&gt; button to upload your Feedback.&lt;br&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Appreciate your help in completing this survey at your earliest convenience.&lt;br&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;br&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: Thank You<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;/body&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: &lt;/html&gt;<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: --b1=_3ou6qKPFyiCRGEmKG4FsHQrIxmVT9S3r3lbeZdHYI--<br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: <br>
+2024-02-13 08:16:08 CLIENT -&gt; SERVER: .<br>
+2024-02-13 08:16:16 SERVER -&gt; CLIENT: 250 OK id=1rZnxY-0068A0-17<br>
+2024-02-13 08:16:16 CLIENT -&gt; SERVER: QUIT<br>
+2024-02-13 08:16:16 SERVER -&gt; CLIENT: 221 n3plcpnl0084.prod.ams3.secureserver.net closing connection<br>
+2024-02-13 08:16:16 Connection: closed<br>
+Email sent successfully through the primary port:587
+

@@ -1,0 +1,27 @@
+body {
+	background-image: url("../../img/createSurveybg.jpg");
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: "Audiowide", sans-serif;
+}
+
+#contentBox {
+	box-shadow: 0 8px 6px -6px black;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 10px;
+	border-radius: 25px;
+	margin-top: 60px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 15px;
+}
+
+#question_list_id {
+	width: 40%;
+}
+
+btn  {
+	box-shadow: 0 8px 6px -6px black;
+}

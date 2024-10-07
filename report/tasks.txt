@@ -1,0 +1,1 @@
+when getting question based average, I forgot to divide by the number of surveyors to get the average

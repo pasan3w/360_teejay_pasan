@@ -1,0 +1,69 @@
+{
+    "EvaluationCriteria": [
+        {
+            "category": "Openness/Feedback",
+            "id": 1,
+            "QuestionList": [
+                { "number": 1, "question": "Openly admits and takes responsibility for the mistakes committed.", "type" : 0 },
+                { "number": 2, "question": "Takes feedback very constructively for future development." , "type" : 0},
+                { "number": 3, "question": "Takes accountability for a team member's mistakes / faults and makes sure that it does not occur in future."}
+            ]
+        },
+        {
+            "category": "Self Discipline",
+            "id": 2,
+            "QuestionList": [
+                { "number": 1, "question": "Strives towards delivering assignments undertaken to agreed deadlines with the team. Disciplined to finish on time without procrastinations" , "type" : 0},
+                { "number": 2, "question": "Proactive & Organized. Plan the work well in advance and rarely excuses for delays"},
+                { "number": 3, "question": "Punctual to work meetings and appointments and have a clear objective" , "type" : 0}
+            ]
+        },
+        {
+            "category" : "Leadership", 
+            "id" : 3, 
+            "QuestionList" : [
+                { "number": 1, "question": "Delegates tasks responsibly. Empowers the team members" }, 
+                { "number": 2, "question": "Motivates the team members to get the job done rather than impose  authority to accomplish tasks" },
+                { "number": 3, "question": "Ready to take any kind of challenge and drive towards the change."}
+            ]
+        },
+        { 
+            "category" : "Decision Making",
+             "id" : 4,
+              "QuestionList" : [
+                { "number": 1, "question": "Demonstrates transperancy in the decision making process"},
+                { "number": 2, "question": "Involves team members in the decision making process", "type" : 0},
+                { "number": 3, "question": "Represents the team members and their challenges during the management decision making process", "type" : 0}
+            ]
+        },
+        { 
+            "category" : "Organizational Vision / Goals", 
+            "id" : 5, 
+            "QuestionList" : [
+                { "number": 1, "question": "Gives priority to Company objectives and targets over departmental and personal targets."},
+                { "number": 2, "question": "Understands the link and importance of the individual, department KPIs towards the overall organizational performance."},
+                { "number": 3, "question": "Independently Commits to learn and upgrade knowledge / skills. Grows with the organization"}
+            ]
+        },
+        {
+            "category" : "Team esteem",
+            "id" : 6,
+            "QuestionList" : [
+                { "number": 1, "question": "Always Share knowledge and is concerned about developing fellow members."},
+                { "number": 2, "question": "Appreciates and utilizes the knowledge even he/she is a  junior team member."},
+                { "number": 3, "question": "Confident about the abilities and aware of his/her own limitations."}
+            ]
+        },
+        {
+            "category" : "Text Input",
+            "id" : 7,
+            "QuestionList" : [
+                { "number": 1, "question": "Supporting evidence for employee's leadership skills.", "type" : 1},
+                { "number": 2, "question": "Supporting evidence for employee's  Decision Making skills.", "type" : 1},
+                { "number": 3, "question": "What salary increment do you recommend for this employee.", "type" : 1}
+            ]       	
+       
+        }
+       
+    ]
+}

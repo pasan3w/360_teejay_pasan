@@ -1,0 +1,31 @@
+2024-01-17 10:24:38 - Questionare ID is NOT selected.<pre><h2>Survey ID</h2>102<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => OS 03
+    [Name] => Naveen Ariyawansha
+    [DepartmentName] => 3W Centre (IT)
+    [JobTitleName] => Network/System Adminstrator Trainee
+    [EmailAddress] => it@3rdwave.lk
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => pasan.chathinthaka.perera@gmail.com
+            [Name] => Pasan Perera
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasan.chathinthaka.perera@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+)
+<hr>http://3.128.173.197/360/surveyPage.php?eid=OS+03&type=Self&selectedIds=OS+03&surveyId=102-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=102, State=1
+Survey State=1
+SurveyID: 102 already contains a SurveyAssignment for employee:OS 03 by surveyor OS 03, number of duplicate assignments=1
+Error: Illegal Survey Assignment
+

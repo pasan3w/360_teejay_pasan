@@ -1,0 +1,108 @@
+2024-01-24 08:53:33 - Questionare ID is NOT selected.<pre><h2>Survey ID</h2>108<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => 94
+    [Name] => Arshini Skandarajah
+    [DepartmentName] => 3W Centre
+    [JobTitleName] => COO
+    [EmailAddress] => arshini@3rdwaveconsulting.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => 3W 001
+            [Name] => Peter Eusabius Stefano Moraes
+            [DepartmentName] => 3W Centre
+            [JobTitleName] => Managing Director
+            [EmailAddress] => stefan@3rdwaveconsulting.com
+            [type] => Reporting Manager
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => FTC 01
+            [Name] => Anna Malsirini Kumari Bandara
+            [DepartmentName] => 3WC
+            [JobTitleName] => Manager Operations (3WC/3WA)
+            [EmailAddress] => malsirini@3rdwaveconsulting.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [2] => Array
+        (
+            [EID] => OS 02
+            [Name] => Irshad Iqbal
+            [DepartmentName] => 3W Centre (IT)
+            [JobTitleName] => CTO
+            [EmailAddress] => irshad@3rdwave.lk
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [3] => Array
+        (
+            [EID] => FTC 02
+            [Name] => Roshan Gurusinghe
+            [DepartmentName] => 3W Centre
+            [JobTitleName] => CCO
+            [EmailAddress] => roshan@3rdwave.lk
+            [type] => Peer
+            [check] => yes
+        )
+
+    [4] => Array
+        (
+            [EID] => MT 02
+            [Name] => Sanuja Kobbekaduwe
+            [DepartmentName] => 3WC
+            [JobTitleName] => Management Trainee
+            [EmailAddress] => sanuja@3rdwaveconsulting.com
+            [type] => Internal
+            [check] => yes
+        )
+
+    [5] => Array
+        (
+            [EID] => 95
+            [Name] => Hiran Wilathgamuwage
+            [DepartmentName] => 3WC
+            [JobTitleName] => Associate Consultant
+            [EmailAddress] => hiran@3rdwaveconsulting.com
+            [type] => Internal
+            [check] => yes
+        )
+
+    [6] => Array
+        (
+            [EID] => pasan.chathinthaka.perera@gmail.com
+            [Name] => Pasan Perera
+            [DepartmentName] => IT
+            [JobTitleName] => Software Engineer
+            [EmailAddress] => pasan.chathinthaka.perera@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+    [7] => Array
+        (
+            [EID] => rehan.ariyawansa@gmail.com
+            [Name] => Rehan Ariyawansa
+            [DepartmentName] => HR
+            [JobTitleName] => HRM
+            [EmailAddress] => rehan.ariyawansa@gmail.com
+            [type] => External
+            [check] => yes
+        )
+
+)
+<hr>http://3.128.173.197/surveyPage.php?eid=94&type=Self&selectedIds=94&surveyId=108-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=108, State=3
+Survey State=3
+SurveyId:108, SurveyState:3 Current State is not valid for for new Assignment
+Error: Illegal Survey Assignment
+

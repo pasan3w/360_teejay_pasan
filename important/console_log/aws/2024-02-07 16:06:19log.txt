@@ -1,0 +1,97 @@
+2024-02-07 16:06:19 - <pre><h2>Survey ID</h2>107<pre><h2>Surveyee Details</h2>Array
+(
+    [EID] => 1
+    [Name] => Iresha Dasanayaka
+    [DepartmentName] => 3WGE
+    [JobTitleName] => Head of branch cum  Snr Visa Officer - CMB
+    [EmailAddress] => iresha@3wge.com
+    [type] => Self
+)
+<pre><h2>Surveyors Details</h2>Array
+(
+    [0] => Array
+        (
+            [EID] => 69
+            [Name] => Bernice Roche
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Manager Operations
+            [EmailAddress] => bernice@3wge.com
+            [type] => Reporting Manager
+            [check] => yes
+        )
+
+    [1] => Array
+        (
+            [EID] => 62
+            [Name] => Dino Fernandez
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Student Counsellor
+            [EmailAddress] => dino@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [2] => Array
+        (
+            [EID] => 65
+            [Name] => Ruwini ​Jayasundera
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Snr Student Counsellor
+            [EmailAddress] => ruwini@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [3] => Array
+        (
+            [EID] => 68
+            [Name] => Samantha De Alwis
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Snr Student Counsellor
+            [EmailAddress] => samantha@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [4] => Array
+        (
+            [EID] => 74
+            [Name] => Shiromy Patrick
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Visa officer cum student Counsellor
+            [EmailAddress] => shirmoy@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [5] => Array
+        (
+            [EID] => 76
+            [Name] => Dilhani Perera
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Snr Student Counsellor
+            [EmailAddress] => Dilhani@3wge.com
+            [type] => Direct Reporting
+            [check] => yes
+        )
+
+    [6] => Array
+        (
+            [EID] => 58
+            [Name] => Mihiri Dasanayake
+            [DepartmentName] => 3WGE
+            [JobTitleName] => Head of branch cum Snr Student Counsellor - Kandy
+            [EmailAddress] => mihiri@3wge.com
+            [type] => Peer
+            [check] => yes
+        )
+
+)
+<hr><script>alert('Self');</script>-------------------------AssignSurvey:[start]-----------------------------
+-------------------------ValidateAssignment:[start]-----------------------------
+-----------------------------GetSurveyState:[start]-------------------------------
+Survey: SurveyID=107, State=1
+Survey State=1
+SurveyID: 107 already contains a SurveyAssignment for employee:1 by surveyor 1, number of duplicate assignments=1
+Error: Illegal Survey Assignment
+

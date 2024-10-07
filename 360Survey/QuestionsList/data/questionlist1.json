@@ -1,0 +1,81 @@
+{
+    "EvaluationCriteria": [
+        {
+            "category": "Organizational Alignment",
+            "id": 1,
+            "QuestionList": [
+                { "number": 1, "question": "Understands and aligns their work with the organization's mission and strategic objectives." },
+                { "number": 2, "question": "Can consistently adhere to the organization's policies and standards." },
+                { "number": 3, "question": "Contributes to the overall positive culture and morale of the organization." },
+                { "number": 4, "question": "Actively participates in organizational initiatives and activities outside their job role." },
+                { "number": 5, "question": "Can effectively communicate the organization's goals and values to others." }
+            ]
+        },
+        {
+            "category": "Interpersonal Skills",
+            "id": 2,
+            "QuestionList": [
+                { "number": 1, "question": "Communicates with colleagues, both verbally and in writing." },
+                { "number": 2, "question": "Demonstrates active listening and shows an understanding of others' perspectives." },
+                { "number": 3, "question": "Has a good ability to work with others in a team environment." },
+                { "number": 4, "question": "Can handle disagreements or conflicts in a constructive and respectful manner"},
+                { "number": 5, "question": "Builds and maintains professional relationships within the organization."}
+            ]
+        },
+        {
+            "category" : "Leadership", 
+            "id" : 3, 
+            "QuestionList" : [
+                { "number": 1, "question": "Communicates the team's goals and objectives effectively."}, 
+                { "number": 2, "question": "Consistently demonstrates strategic thinking and decision-making abilities."},
+                { "number": 3, "question": "Motivates and inspires the team to achieve high performance."},
+                { "number": 4, "question": "Handles conflict and difficult situations effectively while maintaining respect and professionalism."},
+                { "number": 5, "question": "Actively seeks feedback and demonstrates a willingness to make improvements in their leadership style."}
+            ]
+        },
+        { 
+            "category" : "Problem-Solving",
+             "id" : 4,
+              "QuestionList" : [
+                { "number": 1, "question": "Can consistently apply logical and creative thinking to solve problems."},
+                { "number": 2, "question": "Can identify potential problems before they escalate."},
+                { "number": 3, "question": "Can effectively prioritize and address multiple problems simultaneously."},
+                { "number": 4, "question": "Effectively utilizes resources and collaborates with others to solve complex problems."},
+                { "number": 5, "question": "Is adept at finding solutions that align with the organization's strategic objectives."}
+            ]
+        },
+        { 
+            "category" : "Communication", 
+            "id" : 5, 
+            "QuestionList" : [
+                { "number": 1, "question": "Clearly expresses their ideas and information in verbal conversations."},
+                { "number": 2, "question": "Can write clear, concise, and effective emails and reports."},
+                { "number": 3, "question": "Listens attentively and responds appropriately to others' viewpoints."},
+                { "number": 4, "question": "Communicates effectively during team meetings or presentations."},
+                { "number": 5, "question": "Communicates complex concepts or information in a way that is easy for others to understand."}                
+            ]
+        },
+        {
+            "category" : "Motivation",
+            "id" : 6,
+            "QuestionList" : [
+                { "number": 1, "question": "Displays a positive attitude and enthusiasm toward their work."},
+                { "number": 2, "question": "Consistently meets their deadlines and achieves their targets."},
+                { "number": 3, "question": "Takes initiative in their tasks and responsibilities."},
+                { "number": 4, "question": "Seeks opportunities for professional growth and development."},
+                { "number": 5, "question": "Shows resilience and perseverance in the face of challenges or setbacks."}               
+            ]
+        },
+        {
+            "category" : "Efficiency",
+            "id" : 7,
+            "QuestionList" : [
+                { "number": 1, "question": "Consistently completes tasks on time without sacrificing quality."},
+                { "number": 2, "question": "Can effectively manage their workload and prioritize tasks according to urgency and importance."},
+                { "number": 3, "question": "Uses resources (time, tools, manpower) efficiently."},
+                { "number": 4, "question": "Can identify and implement methods for improving processes or procedures in their work."},
+                { "number": 5, "question": "Effectively minimizes waste or redundancies in their work."}               
+            ]
+        }        
+    ]
+}

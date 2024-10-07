@@ -1,0 +1,288 @@
+{
+  "EvaluationCriteria": [
+    {
+      "category": "Create Vision and Establish Direction",
+      "id": 1,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Creates a common vision for others"
+        },
+        {
+          "number": 2,
+          "question": "Clearly articulates a vision for his/her work and inspires others to support it"
+        },
+        {
+          "number": 3,
+          "question": "Anticipates business cycles and trends"
+        },
+        {
+          "number": 4,
+          "question": "Formulates strategies and action plans to ensure successful completion of goals and objectives"
+        },
+        {
+          "number": 5,
+          "question": "Understands the strengths and challenges of the [Company] and uses this information to create optimal solutions to problems"
+        },
+        {
+          "number": 6,
+          "question": "Regularly monitors budgets and deadlines to stay informed of any potential issues"
+        },
+        {
+          "number": 7,
+          "question": "Implements long-term solutions to problems"
+        },
+        {
+          "number": 8,
+          "question": "Evaluates the effectiveness of solutions and plans"
+        }
+      ]
+    },
+    {
+      "category": "Achieve Results",
+      "id": 2,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Sets challenging personal and organizational goals"
+        },
+        {
+          "number": 2,
+          "question": "Directs team in prioritizing work activities"
+        },
+        {
+          "number": 3,
+          "question": "Drives and mobilizes others' progress toward goals"
+        },
+        {
+          "number": 4,
+          "question": "Works across organizational lines and boundaries to attain goals"
+        },
+        {
+          "number": 5,
+          "question": "Works toward achievement of goals even when confronted with obstacles"
+        },
+        {
+          "number": 6,
+          "question": "Identifies ways to simplify work processes and reduce cycle times"
+        },
+        {
+          "number": 7,
+          "question": "Recognizes and rewards behavior that produces top performance"
+        },
+        {
+          "number": 8,
+          "question": "Takes decisive action to address problems, following up with relevant team members and coaching them on how to improve"
+        }
+      ]
+    },
+    {
+      "category": "Continuous Learning",
+      "id": 3,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Pursues self-improvement through continual learning"
+        },
+        {
+          "number": 2,
+          "question": "Looks for ways to expand and learn new job skills"
+        },
+        {
+          "number": 3,
+          "question": "Sets relevant learning objectives and goals"
+        },
+        {
+          "number": 4,
+          "question": "Keeps up-to-date on newest industry trends, research, and technology"
+        },
+        {
+          "number": 5,
+          "question": "Considers others' opinions and suggestions"
+        },
+        {
+          "number": 6,
+          "question": "Seeks feedback to enhance performance"
+        }
+      ]
+    },
+    {
+      "category": "Employee Development",
+      "id": 4,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Establishes and documents goals, objectives, and results"
+        },
+        {
+          "number": 2,
+          "question": "Communicates goals and objectives to employees"
+        },
+        {
+          "number": 3,
+          "question": "Ensures that team members have a clear understanding of their goals"
+        },
+        {
+          "number": 4,
+          "question": "Writes complete developmental performance appraisals with clear goals, using SMART criteria"
+        },
+        {
+          "number": 5,
+          "question": "Provides performance coaching for others to help him/her improve"
+        },
+        {
+          "number": 6,
+          "question": "Sets and clearly communicates expectations, performance goals, and measurements to others"
+        },
+        {
+          "number": 7,
+          "question": "Ensures performance measures are in place to monitor and assess attainment of goals and objectives that support the [Company]"
+        }
+      ]
+    },
+    {
+      "category": "Team Driven",
+      "id": 5,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Emphasizes the importance of getting individuals to work as a team"
+        },
+        {
+          "number": 2,
+          "question": "Builds relationships across boundaries and with key stakeholders by developing informal and formal networks"
+        },
+        {
+          "number": 3,
+          "question": "Builds consensus and shares relevant information"
+        },
+        {
+          "number": 4,
+          "question": "Fosters an environment that values initiative and creativity"
+        },
+        {
+          "number": 5,
+          "question": "Encourages calculated risk taking and experimentation to improve performance"
+        },
+        {
+          "number": 6,
+          "question": "Gives honest feedback and suggestions for improvement"
+        }
+      ]
+    },
+    {
+      "category": "Agility",
+      "id": 6,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Adapts to novel, dynamic, and changing situations requiring creative solutions to new problems"
+        },
+        {
+          "number": 2,
+          "question": "Able to work effectively within uncertain environments"
+        },
+        {
+          "number": 3,
+          "question": "Adjusts priorities to changing business goals"
+        },
+        {
+          "number": 4,
+          "question": "Learns from personal experiences and/or mistakes"
+        },
+        {
+          "number": 5,
+          "question": "Anticipates changes in the work environment"
+        },
+        {
+          "number": 6,
+          "question": "Responds quickly to new opportunities or risks"
+        },
+        {
+          "number": 7,
+          "question": "Changes strategies, as needed"
+        },
+        {
+          "number": 8,
+          "question": "Willing to try new ideas"
+        }
+      ]
+    },
+    {
+      "category": "Customer Focused",
+      "id": 7,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Sets personal and organizational goals that align with client needs and expectations"
+        },
+        {
+          "number": 2,
+          "question": "Interacts with clients to define roles, expectations, and responsibilities"
+        },
+        {
+          "number": 3,
+          "question": "Ensures client commitments and requirements are met or exceeded"
+        },
+        {
+          "number": 4,
+          "question": "Focuses the department on meeting requirements or clients"
+        },
+        {
+          "number": 5,
+          "question": "Forms strong client relationships"
+        },
+        {
+          "number": 6,
+          "question": "Maintains strong relationships with clients"
+        },
+        {
+          "number": 7,
+          "question": "Satisfies clients' needs"
+        },
+        {
+          "number": 8,
+          "question": "Looks for new opportunities that have a positive impact on clients"
+        }
+      ]
+    },
+    {
+      "category": "Value Driven",
+      "id": 8,
+      "QuestionList": [
+        {
+          "number": 1,
+          "question": "Aligns resources to meet the business needs of the [Company]"
+        },
+        {
+          "number": 2,
+          "question": "Asks the \"right\" questions to evaluate situations"
+        },
+        {
+          "number": 3,
+          "question": "Considers internal and external environmental factors when providing advice and solutions to problems"
+        },
+        {
+          "number": 4,
+          "question": "Demonstrates an understanding of the company in its entirety and works to achieve results across disciplines, departments, and functions"
+        },
+        {
+          "number": 5,
+          "question": "Focuses on business strategies that will lead to success in the marketplace"
+        },
+        {
+          "number": 6,
+          "question": "Demonstrates a commitment to organizational and personal values"
+        },
+        {
+          "number": 7,
+          "question": "Fosters a high standard of ethics and integrity"
+        },
+        {
+          "number": 8,
+          "question": "Views problems from a business perspective, opportunity, investment, risks, and anticipated results"
+        }
+      ]
+    }
+  ]
+}
